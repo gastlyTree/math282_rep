@@ -1,0 +1,6 @@
+G:\Semester1\MATH282\Projects\Matrix_A\Matrix_A\bin\Debug\Matrix_A.exe.config
+G:\Semester1\MATH282\Projects\Matrix_A\Matrix_A\obj\Debug\Matrix_A.csprojResolveAssemblyReference.cache
+G:\Semester1\MATH282\Projects\Matrix_A\Matrix_A\bin\Debug\Matrix_A.exe
+G:\Semester1\MATH282\Projects\Matrix_A\Matrix_A\bin\Debug\Matrix_A.pdb
+G:\Semester1\MATH282\Projects\Matrix_A\Matrix_A\obj\Debug\Matrix_A.exe
+G:\Semester1\MATH282\Projects\Matrix_A\Matrix_A\obj\Debug\Matrix_A.pdb

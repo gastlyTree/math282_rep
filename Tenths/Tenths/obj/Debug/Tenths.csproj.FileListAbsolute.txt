@@ -1,0 +1,6 @@
+G:\Semester1\MATH282\Projects\Tenths\Tenths\bin\Debug\Tenths.exe.config
+G:\Semester1\MATH282\Projects\Tenths\Tenths\bin\Debug\Tenths.exe
+G:\Semester1\MATH282\Projects\Tenths\Tenths\bin\Debug\Tenths.pdb
+G:\Semester1\MATH282\Projects\Tenths\Tenths\obj\Debug\Tenths.csprojResolveAssemblyReference.cache
+G:\Semester1\MATH282\Projects\Tenths\Tenths\obj\Debug\Tenths.exe
+G:\Semester1\MATH282\Projects\Tenths\Tenths\obj\Debug\Tenths.pdb
