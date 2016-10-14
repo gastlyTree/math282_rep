@@ -4,3 +4,6 @@ G:\Semester1\MATH282\Projects\BiSection\BiSection\bin\Debug\BiSection.pdb
 G:\Semester1\MATH282\Projects\BiSection\BiSection\obj\Debug\BiSection.csprojResolveAssemblyReference.cache
 G:\Semester1\MATH282\Projects\BiSection\BiSection\obj\Debug\BiSection.exe
 G:\Semester1\MATH282\Projects\BiSection\BiSection\obj\Debug\BiSection.pdb
+G:\git_reps\math282_rep\BiSection\BiSection\bin\Debug\BiSection.exe.config
+G:\git_reps\math282_rep\BiSection\BiSection\obj\Debug\BiSection.exe
+G:\git_reps\math282_rep\BiSection\BiSection\obj\Debug\BiSection.pdb
