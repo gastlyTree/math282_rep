@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BysectionforPolynomials")]
+[assembly: AssemblyTitle("Graph")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BysectionforPolynomials")]
+[assembly: AssemblyProduct("Graph")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6e9fd6ae-8fb1-4a2f-97f5-e11c5aaad109")]
+[assembly: Guid("8522a33d-27f4-43e5-97c9-ac9008793aa3")]
 
 // Version information for an assembly consists of the following four values:
 //

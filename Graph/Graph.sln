@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BysectionforPolynomials", "BysectionforPolynomials\BysectionforPolynomials.csproj", "{6E9FD6AE-8FB1-4A2F-97F5-E11C5AAAD109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{8522A33D-27F4-43E5-97C9-AC9008793AA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6E9FD6AE-8FB1-4A2F-97F5-E11C5AAAD109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E9FD6AE-8FB1-4A2F-97F5-E11C5AAAD109}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E9FD6AE-8FB1-4A2F-97F5-E11C5AAAD109}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E9FD6AE-8FB1-4A2F-97F5-E11C5AAAD109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8522A33D-27F4-43E5-97C9-AC9008793AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8522A33D-27F4-43E5-97C9-AC9008793AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8522A33D-27F4-43E5-97C9-AC9008793AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8522A33D-27F4-43E5-97C9-AC9008793AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
